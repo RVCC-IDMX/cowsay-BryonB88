@@ -1,1 +1,3 @@
-# template
+# Cowsay
+
+## They can say anything
